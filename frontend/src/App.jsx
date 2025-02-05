@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar.jsx";
 import { useEffect } from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
 import HomePage from "./pages/HomePage";
-import SignUpPage from "./pages/SignupPage";
+import SignUpPage from "./pages/SignUpPage";
 import SettingsPage from "./pages/SettingsPage";
 import LoginPage from "./pages/LogInPage";
 import ProfilePage from "./pages/ProfilePage";
